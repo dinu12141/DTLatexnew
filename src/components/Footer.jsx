@@ -100,15 +100,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-accent" />
-                <span className="text-white/80">123 Industrial Zone, Colombo, Sri Lanka</span>
+                <span className="text-white/80">Dambagalla, Monaragala, Sri Lanka</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-accent" />
-                <span className="text-white/80">+94 11 234 5678</span>
+                <span className="text-white/80">+94 717 462 205  </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-accent" />
-                <span className="text-white/80">info@dtlatex.com</span>
+                <span className="text-white/80">dtlatex05@gmail.com</span>
               </div>
             </div>
 
