@@ -30,7 +30,7 @@ const Chatbot = () => {
     'products': "We offer a wide range of products including Natural Latex Foam, Industrial Rubber Sheets, Automotive Components, Medical Grade Products, and Custom Solutions. Which category interests you?",
     'latex foam': "Our Natural Latex Foam products include mattress cores, toppers, and pillows. They're 100% natural, hypoallergenic, and breathable. Would you like more details about specifications?",
     'price': "For pricing information, I'd recommend contacting our sales team directly. You can use the 'Get Quote' button or call us at +94 11 234 5678.",
-    'contact': "You can reach us at:\n📧 info@dtlatex.com\n📞 +94 11 234 5678\n📍 123 Industrial Zone, Colombo, Sri Lanka",
+    'contact': "You can reach us at:\n📧 dtlatex05@gmail.com\n📞 +94 11 234 5678\n📍 123 Industrial Zone, Colombo, Sri Lanka",
     'quality': "We maintain ISO 14001-2004, 9001-2008, and 50001-2011 certifications. All our products undergo rigorous quality testing and meet international standards.",
     'sustainability': "DTLatex is committed to sustainable practices. We use 100% natural latex from Sri Lankan rubber trees and implement eco-friendly manufacturing processes.",
     'applications': "Our products serve various industries including automotive, medical, construction, furniture, and industrial applications. What specific application are you interested in?",
