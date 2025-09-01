@@ -10,14 +10,14 @@ const About = () => {
       name: "Tharindu C HERATH",
       position: "Chairman,CEO, Director – Engineering",
       image: directorImage1,
-      bio: "At DTLatex (Pvt) Ltd, we are committed to setting new standards in the rubber industry by delivering superior quality, innovation, and sustainability. With a strong foundation in ethical practices and advanced manufacturing technologies, our mission is to contribute to the global market with products that reflect excellence and reliability.
+      bio: "At DTLatex (Pvt) Ltd, we are committed to setting new standards in the rubber industry by delivering superior quality, innovation, and sustainability. With a strong foundation in ethical practices in our mission is to contribute to the global market with products that reflect excellence and reliability.
 
 As Chairman, I take pride in leading a dedicated team that shares a common vision—to uplift local resources to international heights, while empowering communities and preserving our environment. We are not just building a business, we are shaping a legacy.
 
 Together, let’s create a future where Sri Lankan rubber stands tall on the world stage."
     },
     {
-      name: "DINUSHA M RATHNAYAKA",
+      name: "Dinusha M Rathnayake",
       position: "Director",
       image: directorImage2,
       bio: "At DTLatex (Pvt) Ltd, we believe that progress is driven by purpose, people, and passion. As a Director, my commitment lies in steering our company towards continuous growth through strategic thinking, ethical leadership, and innovative solutions that elevate our products and processes.
